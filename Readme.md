@@ -30,7 +30,7 @@ I love creating visually appealing, functional web applications and constantly l
 </p>
 
 <p align="center">
-  ![Kanchan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanchan0508&theme=react-dark&hide_border=true&area=true)
+![Kanchan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanchan0508&theme=react-dark&hide_border=true&area=true)
 </p>
 
 ---
