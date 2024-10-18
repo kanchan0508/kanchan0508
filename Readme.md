@@ -29,11 +29,10 @@ I love creating visually appealing, functional web applications and constantly l
   </a>
 </p>
 
-<p align="center">
-![Kanchan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanchan0508&theme=react-dark&hide_border=true&area=true)
-</p>
+## GitHub Activity Graph
 
----
+![Kanchan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&theme=react-dark)
+
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanchan0508-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kanchan0508)
