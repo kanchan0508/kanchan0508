@@ -36,7 +36,9 @@ I love creating visually appealing, functional web applications and constantly l
 
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kanchan0508-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kanchan0508)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kanchan0508-blue?style=flat&logo=linkedin)](www.linkedin.com/in/kanchan-gobari-6173b0247
+
+)
 [![Email](https://img.shields.io/badge/Email-gobarikanchan53@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:gobarikanchan53@gmail.com)
 
 ---
