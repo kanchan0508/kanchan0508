@@ -1,5 +1,6 @@
 ### 👋 Hi there! I'm Kanchan Gobari
 Welcome to my GitHub profile! I'm a front-end developer passionate about UI/UX design, React, and building user-friendly applications. Currently, I'm working on various projects, including a movie app, and participating in a 100-day UI/UX design challenge. Explore my repositories, connect with me, and let's build something amazing together!
+
 ---
 
 ### 🛠️ &nbsp;Tech Stack:
