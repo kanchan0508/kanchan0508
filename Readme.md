@@ -1,24 +1,32 @@
-### 👋 Hi there! I'm Kanchan Gobari
+## 👋 Hi there! I'm Kanchan Gobari
 
-Welcome to my GitHub profile! I'm a dedicated Frontend Developer specializing in building responsive and performant web and mobile applications using React and React Native. My expertise lies in translating ideas into clean, maintainable code and creating interfaces that are both functional and user-friendly. With a solid understanding of component-based architecture and modern JavaScript (ES6+), I’ve developed and contributed to multiple real-world projects that emphasize scalability and performance. I’m particularly passionate about creating cross-platform experiences with React Native, bridging the gap between web and mobile development. I value collaboration, continuous learning, and writing code that not only works but is also easy to read and extend. I'm excited to contribute to forward-thinking teams and continue growing as a developer!
+Welcome to my GitHub profile!
+
+I'm a **Frontend Developer** passionate about crafting responsive and performant **web** and **mobile applications** using **React** and **React Native**. I focus on writing clean, maintainable code and building user-friendly interfaces that deliver great experiences across platforms. I have a strong grasp of **component-based architecture**, modern **JavaScript (ES6+)**, and UI/UX principles. From scalable web apps to seamless mobile interfaces, I’ve contributed to several real-world projects.
+
+I believe in **collaboration**, **continuous learning**, and developing code that’s easy to read and extend. I’m always excited to join forward-thinking teams and grow as a developer.
+
 ---
 
 ### 🛠️ &nbsp;Tech Stack:
-#### Frontend Tools:
+
+#### 🚀 Frontend Tools:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Backend Tools:
+#### 🔧 Backend Tools:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### Version Control:
+#### 📁 Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
