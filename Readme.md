@@ -1,6 +1,5 @@
 ### 👋 Hi there! I'm Kanchan Gobari
-Welcome to my GitHub profile! I'm a front-end developer passionate about UI/UX design, React, and building user-friendly applications. Currently, I'm working on various projects, including a movie app, and participating in a 100-day UI/UX design challenge. Explore my repositories, connect with me, and let's build something amazing together!
-
+Welcome to my GitHub profile! I'm a dedicated Frontend Developer specializing in building responsive and performant web and mobile applications using React and React Native. My expertise lies in translating ideas into clean, maintainable code and creating interfaces that are both functional and user-friendly. With a solid understanding of component-based architecture and modern JavaScript (ES6+), I’ve developed and contributed to multiple real-world projects that emphasize scalability and performance. I’m particularly passionate about creating cross-platform experiences with React Native, bridging the gap between web and mobile development. I value collaboration, continuous learning, and writing code that not only works but is also easy to read and extend. I'm excited to contribute to forward-thinking teams and continue growing as a developer.
 ---
 
 ### 🛠️ &nbsp;Tech Stack:
