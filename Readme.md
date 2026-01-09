@@ -1,267 +1,92 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Kanchan%20Gobari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20Mobile%20App%20Creator&descSize=16&descAlignY=55&descAlign=50"/>
+# Kanchan Gobari
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Crafting+Beautiful+User+Interfaces+%F0%9F%8E%A8;Building+Scalable+React+Applications+%E2%9A%9B%EF%B8%8F;Creating+Seamless+Mobile+Experiences+%F0%9F%93%B1" alt="Typing SVG" /></a>
+**Frontend Engineer** · React & React Native Specialist
 
-<br/>
-
-<!-- Social Badges with Custom Styling -->
-<p>
-  <a href="https://www.linkedin.com/in/kanchan-gobari-6173b0247">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gobarikanchan53@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-  </a>
-  <a href="https://my-portfolio-nine-rosy-22.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white&labelColor=8B5CF6" alt="Portfolio"/>
-  </a>
-</p>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=kanchan0508&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanchan-gobari-6173b0247)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gobarikanchan53@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-nine-rosy-22.vercel.app/)
 
 </div>
 
 ---
 
-<!-- About Me Section with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=header"/>
+### About
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> &nbsp;About Me
+Frontend Engineer focused on building performant, accessible web and mobile applications. I specialize in **React** and **React Native** ecosystems, with deep expertise in component architecture, state management, and delivering polished user experiences.
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"/>
+I write clean, maintainable code and believe in the power of simplicity. Whether it's a complex web app or a cross-platform mobile solution, I approach every project with attention to detail and a commitment to quality.
 
-```javascript
-const kanchan = {
-  role: "Frontend Developer",
-  location: "India 🇮🇳",
-  currentFocus: "React & React Native",
-  passions: [
-    "Crafting responsive UIs",
-    "Building mobile apps",
-    "Clean architecture",
-    "Pixel-perfect designs"
-  ],
-  motto: "Code that speaks, interfaces that inspire ✨"
-};
+---
+
+### Technical Expertise
+
+**Frontend Development**
+```
+React · React Native · Expo · JavaScript (ES6+) · TypeScript · HTML5 · CSS3
 ```
 
-<br/>
+**Styling & Design**
+```
+Tailwind CSS · Responsive Design · CSS-in-JS · Figma
+```
 
-- 🔭 Currently building **awesome web & mobile experiences**
-- 🌱 Always learning **new technologies & best practices**
-- 💡 Focused on **component-based architecture & clean code**
-- 🤝 Open to **collaborating on innovative projects**
-- ⚡ Fun fact: **I turn figma designs into reality!**
-
-<br clear="both"/>
+**Backend & Tools**
+```
+Node.js · Express.js · MongoDB · REST APIs · Git · GitHub
+```
 
 ---
 
-<!-- Tech Stack Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> &nbsp;Tech Arsenal
+### What I Do
+
+- 🏗️ &nbsp;Build scalable **single-page applications** with React
+- 📱 &nbsp;Develop cross-platform **mobile apps** using React Native & Expo
+- 🎨 &nbsp;Transform Figma designs into **pixel-perfect interfaces**
+- ⚡ &nbsp;Optimize performance for **smooth user experiences**
+- 🧩 &nbsp;Create **reusable component libraries** with clean APIs
+
+---
+
+### GitHub Activity
 
 <div align="center">
 
-### 🎨 Frontend Magic
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchan0508&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
 
-<table>
-<tr>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  </a>
-  <br><strong>React</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-  </a>
-  <br><strong>React Native</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="48" height="48" alt="Expo" />
-  </a>
-  <br><strong>Expo</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  </a>
-  <br><strong>JavaScript</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  </a>
-  <br><strong>HTML5</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-  </a>
-  <br><strong>CSS3</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  </a>
-  <br><strong>Tailwind</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  </a>
-  <br><strong>Figma</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-  </a>
-  <br><strong>Redux</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  </a>
-  <br><strong>Next.js</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-  </a>
-  <br><strong>TypeScript</strong>
-</td>
-<td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-  </a>
-  <br><strong>Sass</strong>
-</td>
-</tr>
-</table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan0508&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
 
-<br/>
-
-### ⚙️ Backend & Tools
-<br/>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,postman,firebase&theme=dark&perline=8" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=kanchan0508&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)
 
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> &nbsp;GitHub Analytics
+### Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
+
+---
+
+### Let's Connect
+
+Open to collaborating on interesting projects or discussing frontend architecture.
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kanchan0508&show_icons=true&count_private=true&hide_border=true&title_color=667eea&icon_color=667eea&text_color=c9d1d9&bg_color=0d1117&ring_color=667eea" alt="Kanchan Gobari github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan0508&layout=compact&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanchan-gobari-6173b0247)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gobarikanchan53@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-nine-rosy-22.vercel.app/)
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan0508&theme=transparent&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e&background=0d1117" alt="Kanchan's GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 ---
 
-<!-- Trophies Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> &nbsp;GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanchan0508&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy" />
-</div>
 
----
-
-<!-- Featured Projects Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> &nbsp;Featured Projects
-
-<div align="center">
-  <a href="https://github.com/kanchan0508?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanchan0508&repo=my-portfolio&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/kanchan0508?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-667eea?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<!-- Quote Section -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" width="70%"/>
-</div>
-
----
-
-<!-- Connect Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> &nbsp;Let's Connect
-
-<div align="center">
-  
-  <p>
-    <em>I'm always excited to collaborate on interesting projects and connect with fellow developers!</em>
-  </p>
-  
-  <br/>
-  
-  <a href="https://www.linkedin.com/in/kanchan-gobari-6173b0247">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:gobarikanchan53@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://my-portfolio-nine-rosy-22.vercel.app/">
-    <img src="https://img.shields.io/badge/Check_my_Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=kanchan0508&style=flat-square&color=58a6ff)
 
 </div>
-
-<br/>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
-</div>
-
-<!-- Hidden Easter Egg -->
-<!-- Thanks for checking out my profile! 🎉 -->
