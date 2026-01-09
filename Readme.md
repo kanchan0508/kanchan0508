@@ -1,7 +1,14 @@
 <div align="center">
 
-<!-- Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00ABFF,2C3E50&height=300&section=header&text=Kanchan%20Gobari&fontSize=80&fontColor=ffffff&fontAlignY=30&desc=Frontend%20Developer%20%7C%20React%20%26%20Design%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- Reliable Animated Header (Typing SVG) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00ABFF&center=true&vCenter=true&width=900&height=120&lines=Hi+There!+%F0%9F%91%8B+I'm+Kanchan+Gobari;Architecting+Premium+Digital+Experiences;Frontend+Developer+%7C+React+%26+Native" alt="Typing SVG" />
+</a>
+
+<!-- Gradient Line Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
 
 <!-- Social Links -->
 <p align="center">
@@ -114,12 +121,10 @@ I focus on **clean, maintainable code** and building user-friendly interfaces th
     <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kanchan0508&layout=compact&langs_count=8&theme=algolia" alt="Top Langs" />
   </p>
   
-  <!-- Using reliable Streak Stats mirror with Ocean Blue theme to match Algolia -->
   <p>
     <img src="https://streak-stats.demolab.com?user=kanchan0508&theme=ocean_blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
   </p>
   
-  <!-- Fixed Wakatime Link (removed the @ symbol) -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kanchan0508&layout=compact&theme=algolia" alt="Wakatime Stats" />
   </p>
