@@ -1,10 +1,16 @@
 <div align="center">
 
-<!-- Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f172a,334155,0f172a&height=180&section=header&text=Kanchan%20Gobari&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20Specialist&descSize=20&descAlignY=65&fontFamily=Montserrat&animation=fadeIn" width="100%"/>
+<!-- Animated & Simple Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+there!+%F0%9F%91%8B+I'm+Kanchan+Gobari;Frontend+Developer+%7C+React+%26+React+Native" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- Gradient Line Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Animated Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
