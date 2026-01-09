@@ -126,7 +126,7 @@ I focus on **clean, maintainable code** and building user-friendly interfaces th
   </p>
   
   <p>
-    <img src="https://streak-stats.demolab.com?user=kanchan0508&theme=ocean_blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+    <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan0508&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"/>
   </p>
   
   <p>
