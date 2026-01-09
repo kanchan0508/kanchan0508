@@ -2,7 +2,7 @@
 
 <!-- Reliable Animated Header (Typing SVG) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=00ABFF&center=true&vCenter=true&width=900&height=120&lines=Hi+There!+%F0%9F%91%8B+I'm+Kanchan+Gobari;Architecting+Premium+Digital+Experiences;Frontend+Developer+%7C+React+%26+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00ABFF&center=true&vCenter=true&width=1200&height=100&lines=Hi+There!+%F0%9F%91%8B+I'm+Kanchan+Gobari;Architecting+Premium+Digital+Experiences;Frontend+Developer+%7C+React+%26+Native" alt="Typing SVG" />
 </a>
 
 <!-- Gradient Line Separator -->
