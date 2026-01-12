@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://my-portfolio-nine-rosy-22.vercel.app/">
+  <a href="https://kanchangobari.me/">
     <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
