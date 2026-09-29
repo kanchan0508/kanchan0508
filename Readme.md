@@ -1,4 +1,4 @@
-The header image service was failing, while the tiny blue lines came from whitespace inside linked badges. Replace the entire README with this more reliable version:
+
 
 ```html
 <div align="center">
@@ -8,12 +8,12 @@ The header image service was failing, while the tiny blue lines came from whites
 <h3>Frontend Developer · React & React Native Developer</h3>
 
 <p>
-  I build polished, responsive web experiences and smooth cross-platform mobile applications.
+I create polished web experiences and smooth cross-platform mobile applications.
 </p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+modern+React+applications;Creating+cross-platform+React+Native+apps;Turning+designs+into+clean%2C+maintainable+code"
-  alt="Animated developer introduction"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+modern+React+applications;Creating+cross-platform+mobile+apps;Turning+designs+into+maintainable+code"
+  alt="Animated introduction"
 />
 
 <br />
@@ -43,14 +43,14 @@ The header image service was failing, while the tiny blue lines came from whites
 <tr>
 <td width="60%" valign="top">
 
-I'm a **Frontend Developer** focused on building responsive, intuitive, and maintainable products for web and mobile.
+I'm a **Frontend Developer** passionate about building responsive, intuitive, and maintainable products for web and mobile.
 
 I work primarily with **React** and **React Native**, transforming ideas and designs into polished digital experiences.
 
 My development approach focuses on:
 
 - Clean and reusable components
-- Responsive, accessible interfaces
+- Responsive and accessible interfaces
 - Maintainable application architecture
 - Smooth and thoughtful interactions
 - Performance and user experience
@@ -92,7 +92,7 @@ Smooth cross-platform mobile applications powered by React Native.
 </td>
 <td width="33%" align="center" valign="top">
 
-### ✨ UI Implementation
+### ✨ UI Development
 
 Thoughtful layouts, animations, interactions, and scalable design systems.
 
@@ -153,7 +153,7 @@ Thoughtful layouts, animations, interactions, and scalable design systems.
   alt="Kanchan's most used languages"
 />
 
-<br />
+<br /><br />
 
 <img
   src="https://streak-stats.demolab.com?user=kanchan0508&hide_border=true&background=00000000&ring=0EA5E9&fire=22D3EE&currStreakLabel=0EA5E9&sideLabels=64748B&currStreakNum=334155&sideNums=334155&dates=94A3B8"
@@ -170,7 +170,7 @@ Thoughtful layouts, animations, interactions, and scalable design systems.
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&bg_color=00000000&color=64748B&line=0EA5E9&point=22D3EE&area=true&area_color=38BDF8&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&bg_color=ffffff&color=64748B&line=0EA5E9&point=22D3EE&area=true&area_color=38BDF8&hide_border=true"
   alt="Kanchan's GitHub contribution graph"
 />
 
