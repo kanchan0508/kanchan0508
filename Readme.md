@@ -1,149 +1,131 @@
+<!-- ===============================================================
+     GitHub Profile README — Kanchan Gobari
+     =============================================================== -->
+
 <div align="center">
 
-<!-- Animated & Simple Header -->
-<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:0EA5E9,100:22D3EE&text=Kanchan%20Gobari&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Frontend%20%26%20React%20Native%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="Kanchan Gobari — Frontend and React Native Developer" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=45&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+there!+%F0%9F%91%8B+I'm+Kanchan+Gobari;Frontend+Developer+%7C+React+%26+React+Native" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Crafting+fast%2C+responsive+web+experiences;Building+smooth+cross-platform+mobile+apps;Turning+thoughtful+designs+into+clean+code" alt="Typing animation introducing Kanchan's work" />
   </a>
-</div>
 
-<!-- Animated Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+  <br />
 
-<br/>
-
-<!-- Social Links -->
-<p align="center">
   <a href="https://www.linkedin.com/in/kanchan-gobari-6173b0247">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:gobarikanchan53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://kanchangobari.me/">
-    <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=kanchan0508&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kanchan0508?label=FOLLOWERS&style=flat-square&color=22c55e&labelColor=0f172a" alt="GitHub followers" />
 
 </div>
 
-<br/>
+## About me
 
-<!-- Intro Section -->
 <table>
   <tr>
-    <td width="60%" valign="center">
-
-### 👋 About Me
-
-I am a **Frontend Developer** passionate about crafting responsive and performant **web** and **mobile applications** using **React** and **React Native**. 
-
-I focus on **clean, maintainable code** and building user-friendly interfaces that deliver great experiences. I have a strong grasp of **component-based architecture**, modern **JavaScript (ES6+)**, and UI/UX principles.
-
-> *"I believe in collaboration, continuous learning, and developing code that’s easy to read and extend."*
-
-   </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+    <td width="58%" valign="top">
+      <br />
+      I’m a <strong>Frontend Developer</strong> focused on creating polished, responsive products for the web and mobile. I build with <strong>React</strong> and <strong>React Native</strong>, translating ideas and designs into intuitive experiences backed by clean, maintainable code.
+      <br /><br />
+      My approach combines component-driven architecture, modern JavaScript, performance awareness, and close attention to UI details. I value thoughtful collaboration, continuous learning, and software that remains easy to understand as it grows.
+      <br /><br />
+      <blockquote>Great interfaces feel simple because every detail has been considered.</blockquote>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="92%" alt="Developer coding animation" />
     </td>
   </tr>
 </table>
 
-<br/>
+## What I bring to a product
 
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="icon" width="45" height="45" />
-      <br>React
+    <td width="33%" align="center">
+      <h3>⚡ Web Experiences</h3>
+      <p>Responsive, accessible interfaces built with reusable React components.</p>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="icon" width="45" height="45" />
-      <br>JavaScript
+    <td width="33%" align="center">
+      <h3>📱 Mobile Apps</h3>
+      <p>Consistent cross-platform experiences powered by React Native.</p>
     </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="icon" width="45" height="45" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="icon" width="45" height="45" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="icon" width="45" height="45" />
-      <br>Redux
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="icon" width="45" height="45" />
-      <br>Git
-    </td>
-  </tr>
-    <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="icon" width="45" height="45" />
-      <br>Node.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="icon" width="45" height="45" />
-      <br>GitHub
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="icon" width="45" height="45" />
-      <br>Firebase
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=sass&theme=dark" alt="icon" width="45" height="45" />
-      <br>Sass
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="icon" width="45" height="45" />
-      <br>Figma
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react&theme=light" alt="icon" width="45" height="45" />
-      <br>Native
+    <td width="33%" align="center">
+      <h3>✨ UI Craft</h3>
+      <p>Thoughtful layouts, interaction details, and maintainable design systems.</p>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<!-- Stats Section -->
-<h3 align="center">⚙️ GitHub Analytics</h3>
+## Technology toolkit
 
 <div align="center">
-  
-  <p>
-    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanchan0508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Main Stats" />
-    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kanchan0508&layout=compact&langs_count=8&theme=algolia" alt="Top Langs" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan0508&theme=ocean_blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kanchan0508&layout=compact&theme=algolia" alt="Wakatime Stats" />
-  </p>
+
+  <h4>Core development</h4>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,redux&theme=dark" alt="React, JavaScript, TypeScript, Node.js, and Redux" />
+
+  <h4>Styling &amp; product design</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,figma&theme=dark" alt="HTML, CSS, Tailwind CSS, Sass, and Figma" />
+
+  <h4>Tools &amp; services</h4>
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode&theme=dark" alt="Firebase, Git, GitHub, and Visual Studio Code" />
+
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Responsive_Design-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Component_Architecture-0F172A?style=for-the-badge&logo=react&logoColor=22D3EE" alt="Component Architecture" />
+
 </div>
 
-<br/>
-
-<!-- Activity Graph -->
-<h3 align="center">📈 GitHub Activity Graph</h3>
+## GitHub snapshot
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&theme=react-dark&bg_color=050F2C&color=00ABFF&line=00ABFF&point=FFFFFF&area=true&area_color=00ABFF&hide_border=true" width="100%" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kanchan0508&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1&icon_color=22D3EE" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kanchan0508&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0284C7&text_color=334155&icon_color=0891B2" alt="Kanchan's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan0508&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=CBD5E1" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchan0508&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0284C7&text_color=334155" alt="Kanchan's most used languages" />
+  </picture>
 </div>
 
-<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kanchan0508&hide_border=true&background=00000000&stroke=334155&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan0508&hide_border=true&background=00000000&stroke=CBD5E1&ring=0284C7&fire=0891B2&currStreakLabel=0284C7&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" alt="Kanchan's GitHub contribution streak" />
+  </picture>
+</div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00ABFF,2C3E50&height=100&section=footer&animation=fadeIn" width="100%"/>
+## Contribution activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&bg_color=00000000&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&area_color=0EA5E9&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kanchan0508&bg_color=00000000&color=334155&line=0284C7&point=0891B2&area=true&area_color=38BDF8&hide_border=true" alt="Kanchan's GitHub contribution activity graph" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Have an idea worth building?</strong>
+  <br />
+  Let’s turn it into a fast, thoughtful, and memorable product.
+  <br /><br />
+  <a href="mailto:gobarikanchan53@gmail.com">
+    <img src="https://img.shields.io/badge/LET%27S_BUILD_TOGETHER-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="Let's build together" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:0EA5E9,100:22D3EE&animation=fadeIn" alt="Footer decoration" />
