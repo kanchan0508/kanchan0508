@@ -1,6 +1,4 @@
 
-
-```html
 <div align="center">
 
 <h1>Hi, I'm Kanchan Gobari 👋</h1>
@@ -191,4 +189,3 @@ Thoughtful layouts, animations, interactions, and scalable design systems.
 <sub>Designed and built with attention to every detail.</sub>
 
 </div>
-```
